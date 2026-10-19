@@ -14,4 +14,8 @@
 
 <img width="988" height="644" alt="Снимок экрана 2026-10-19 205917" src="https://github.com/user-attachments/assets/b0160696-6e45-4654-a29d-de76814a766c" />
 
+
+
+
+
 📥 Download Latest Release: https://github.com/jelish742-cloud/SAVOR-Launcher/releases/tag/minecraft
