@@ -11,3 +11,5 @@
 
 ⚡ One-click installation of Forge, OptiFine, Fabric, and Forge + OptiFine
 ⚙️ Automatic compatibility setup for modded profiles
+
+<img width="988" height="644" alt="Снимок экрана 2026-10-19 205917" src="https://github.com/user-attachments/assets/b0160696-6e45-4654-a29d-de76814a766c" />
