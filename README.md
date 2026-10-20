@@ -22,3 +22,17 @@
 📥 Download Latest Release: https://github.com/jelish742-cloud/SAVOR-Launcher/releases/tag/minecraft
 
 Disclaimer: This program is a third-party launcher and is not an official Minecraft product. It is not approved by or associated with Mojang AB or Microsoft Corporation. All rights to the Minecraft name, brand and assets belong to Mojang AB / Microsoft.
+
+## 💬 Feedback & Bug Reports
+
+Found a bug or have an idea? Please open an issue:
+👉 https://github.com/jelish742-cloud/SAVOR-Launcher/issues
+
+When reporting a problem, please include:
+- Your Windows version and SAVOR Launcher version
+- Minecraft version and loader (Vanilla / Forge / Fabric / OptiFine)
+- What you did and what happened instead
+- The log file `%APPDATA%\.savor\logs\last-launch.log` (or use the **LOG** button in the launcher)
+- For sign-in problems: the last lines of `%APPDATA%\.savor\launcher.log`
+
+> ⚠️ Never post your passwords or account tokens. The launcher removes tokens from `last-launch.log`, but check the file before sharing it.
