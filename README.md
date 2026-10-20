@@ -13,6 +13,8 @@
 ⚙️ Automatic compatibility setup for modded profiles
 
 ➕ 1.0.2 version update: 
+
+
 ➕ Added Presets: Seamlessly switch between your favorite modpacks.
 
 
