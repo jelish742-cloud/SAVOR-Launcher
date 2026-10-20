@@ -12,10 +12,15 @@
 ⚡ One-click installation of Forge, OptiFine, Fabric, and Forge + OptiFine
 ⚙️ Automatic compatibility setup for modded profiles
 
-<img width="984" height="654" alt="Снимок экрана 2026-10-20 100540" src="https://github.com/user-attachments/assets/d6bcb675-b6c0-4a1e-a59d-83a4211369bc" />
+➕ 1.0.2 version update: 
+➕ Added Presets: Seamlessly switch between your favorite modpacks.
+
+
+<img width="993" height="666" alt="Снимок экрана 2026-10-20 153408" src="https://github.com/user-attachments/assets/0e68d2d0-7e8b-4dac-beff-f95558095c4e" />
 
 
 
+<img width="994" height="669" alt="Снимок экрана 2026-10-20 153448" src="https://github.com/user-attachments/assets/38fda5f5-0cfd-48cd-84d5-b23255d55dca" />
 
 
 
