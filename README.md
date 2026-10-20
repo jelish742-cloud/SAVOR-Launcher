@@ -21,4 +21,4 @@
 
 📥 Download Latest Release: https://github.com/jelish742-cloud/SAVOR-Launcher/releases/tag/minecraft
 
-‼️This program is a third-party launcher and is not an official Minecraft product. It is not approved by or associated with Mojang AB or Microsoft Corporation. All rights to the Minecraft name, brand and assets belong to Mojang AB / Microsoft.‼️
+Disclaimer: This program is a third-party launcher and is not an official Minecraft product. It is not approved by or associated with Mojang AB or Microsoft Corporation. All rights to the Minecraft name, brand and assets belong to Mojang AB / Microsoft.
