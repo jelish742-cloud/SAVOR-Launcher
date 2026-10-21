@@ -3,6 +3,10 @@
 
 🪽 Installs game versions and mod loaders in a couple of clicks, automatically configures Java, explains game crashes, and lets you design skins right inside the app.
 
+
+📦 Built-in mods Catalog: Install and update mods, worlds, resource packs, shaders, and modpacks directly within the launcher 🌐
+
+
 🎨 3D Skin Editor
 
 
@@ -20,17 +24,13 @@
 ⚡ One-click installation of Forge, OptiFine, Fabric, and Forge + OptiFine
 ⚙️ Automatic compatibility setup for modded profiles
 
-➕ 1.0.2 version update: 
-
-
-➕ Added Presets: Seamlessly switch between your favorite modpacks.
-
 
 <img width="993" height="666" alt="Снимок экрана 2026-10-20 153408" src="https://github.com/user-attachments/assets/0e68d2d0-7e8b-4dac-beff-f95558095c4e" />
 
 
 
-<img width="994" height="669" alt="Снимок экрана 2026-10-20 153448" src="https://github.com/user-attachments/assets/38fda5f5-0cfd-48cd-84d5-b23255d55dca" />
+<img width="998" height="668" alt="Снимок экрана 2026-10-21 102757" src="https://github.com/user-attachments/assets/3bae0cf0-b43d-4f9f-83b2-acaf1d244b5c" />
+
 
 
 
