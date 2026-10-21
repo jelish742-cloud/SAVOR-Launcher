@@ -53,4 +53,4 @@ When reporting a problem, please include:
 > ⚠️ Never post your passwords or account tokens. The launcher removes tokens from `last-launch.log`, but check the file before sharing it.
 
 
-🛡️ Virustotal Scan: <https://www.virustotal.com/gui/file/850ad4c213e3bab5f7c2087cfda8ccc5510e71f5294af453ca5e2d1c43c4cdbd?nocache=1> (0/67)
+🛡️ Virustotal Scan: [SCAN](https://www.virustotal.com/gui/file/850ad4c213e3bab5f7c2087cfda8ccc5510e71f5294af453ca5e2d1c43c4cdbd?nocache=1) (0/67)
