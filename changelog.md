@@ -3,6 +3,7 @@
 
 ### v1.0.3 update:
 ➕ 📦 Built-in mods Catalog: Install and update mods, worlds, resource packs, shaders, and modpacks directly within the launcher 🌐
+
 ➕ EULA Update 📜
 
 ### v1.0.4 update:
